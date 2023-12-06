@@ -143,10 +143,11 @@
     padding: 0.5rem 3rem;
   }
   .heading-home {
+    font-size: 3.5rem;
     margin-bottom: 3.8rem;
   }
   .home-paragraph{
-    font-size: 1.5rem;
+    font-size: 1.4rem;
   }
   .home-img{
     height: 35vh;
