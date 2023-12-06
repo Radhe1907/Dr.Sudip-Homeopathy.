@@ -143,7 +143,16 @@
     font-size: 3rem;
     margin-bottom: 2rem;
   }
-  
+  .chamber-details{
+    margin-top: 6rem;
+  }
+  .chamber-timings p{
+    font-size: 1.7rem;
+  }
+  .chamber-timings tel,
+  .chamber-timings mail{
+    font-size: 1.7rem;
+  }
   .remove {
     margin-bottom: 1.2rem;
     font-size: 1.5rem;
