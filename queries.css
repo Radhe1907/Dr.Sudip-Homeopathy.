@@ -143,6 +143,9 @@
     font-size: 3rem;
     margin-bottom: 2rem;
   }
+  .home-img {
+    height: 120vh;
+  }
   .remove {
     margin-bottom: 1.2rem;
     font-size: 1.5rem;
