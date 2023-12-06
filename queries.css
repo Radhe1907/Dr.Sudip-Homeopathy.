@@ -149,8 +149,7 @@
   .chamber-timings p{
     font-size: 1.7rem;
   }
-  .chamber-timings tel,
-  .chamber-timings mail{
+  .chamber-timings{
     font-size: 1.7rem;
   }
   .remove {
