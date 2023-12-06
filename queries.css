@@ -156,10 +156,13 @@
     height: 40vh;
   }
   .about-us-para {
-    font-size: 1.3rem;
+    font-size: 1.4rem;
     line-height: 1.5;
     margin-bottom: 1rem;
     letter-spacing: 2;
+  }
+  .doctor-name {
+    font-size: 3rem;
   }
   .doctor-timing {
     margin-left: 6.8rem;
