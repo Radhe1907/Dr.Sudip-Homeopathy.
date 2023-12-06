@@ -344,14 +344,14 @@ h2 {
   margin-bottom: 3rem;
   padding: 1.2rem;
   border: none;
-  background-color: #e7f5ff;
+  background-color: #d0ebff;
   opacity: 0.8;
-  width: 100%;
+  width: 150%;
 }
 .form-border textarea {
-  background-color: #e7f5ff;
+  background-color: #d0ebff;
   opacity: 0.8;
-  width: 100%;
+  width: 150%;
   font-size: 1.8rem;
   height: 8rem;
   display: block;
@@ -377,7 +377,7 @@ h2 {
   padding: 1rem 2rem;
 }
 .form-border input::placeholder {
-  color: #adb5bd;
+  color: #868e96;
 }
 /* footer  */
 .footer-part {
