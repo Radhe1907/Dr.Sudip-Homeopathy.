@@ -43,6 +43,9 @@ body {
   height: 5.5rem;
   width: 100%;
 }
+/* b {
+  font-weight: 700;
+} */
 /*
 --- 01 TYPOGRAPHY SYSTEM
 
@@ -262,6 +265,9 @@ h2 {
   padding-left: 6rem;
   background-color: #e9ecef;
 }
+.line-height {
+  height: 1rem;
+}
 .tel,
 .mail {
   text-decoration: none;
@@ -290,6 +296,9 @@ h2 {
   border-radius: 50%;
   width: 60%;
   margin-left: 11rem;
+}
+.doctor-timing {
+  margin-left: 8.2rem;
 }
 .chamber-timings {
   /* margin-bottom: 4rem; */
