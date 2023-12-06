@@ -110,7 +110,7 @@
     font-weight: 600;
   }
   h2 {
-    font-size: 2.5rem;
+    font-size: 2.7rem;
   }
   .home-content {
     top: 10rem;
@@ -142,6 +142,9 @@
   .navigation {
     padding: 0.5rem 3rem;
   }
+  .logo-dr-name{
+    font-size: 2.7rem;
+  } 
   .heading-home {
     font-size: 3.5rem;
     margin-bottom: 3.8rem;
