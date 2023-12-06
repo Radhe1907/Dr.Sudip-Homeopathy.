@@ -183,14 +183,11 @@
   .grid-col {
     grid-template-columns: 1fr 1fr;
   }
-  .doctor-name {
-    font-size: 2rem;
-  }
   .footer-image {
     height: 30vh;
   }
   .doctor-name {
-    font-size: 4rem;
+    font-size: 3rem;
   }
   .form-border textarea {
     margin-bottom: 2rem;
