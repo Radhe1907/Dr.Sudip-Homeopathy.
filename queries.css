@@ -129,11 +129,14 @@
     line-height: 1.5;
     font-size: 1.2rem;
   }
+  .doctor-timing {
+    margin-left: 6.8rem;
+  }
 }
 /* 539.2px */
 @media (max-width: 33.7em) {
   html {
-    font-size: 35%;
+    font-size: 38%;
   }
   .heading-home {
     font-size: 3rem;
@@ -156,11 +159,17 @@
     margin-bottom: 1rem;
     letter-spacing: 2;
   }
+  .doctor-timing {
+    margin-left: 6.8rem;
+  }
+  .line-height {
+    height: 1.4rem;
+  }
 }
 /* 480px */
 @media (max-width: 30em) {
   html {
-    font-size: 31%;
+    font-size: 37%;
   }
   .home-img {
     width: 100%;
