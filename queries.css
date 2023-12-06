@@ -167,7 +167,8 @@
     height: 1.4rem;
   }
   .form-border input {
-    font-size:1.6rem;
+    font-size:1.8rem;
+    font-weight:450
   }
 }
 /* 480px */
