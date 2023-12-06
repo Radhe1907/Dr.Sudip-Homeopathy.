@@ -142,6 +142,10 @@
   .navigation {
     padding: 0.5rem 3rem;
   }
+  .nav-link:link,
+  .nav-link:visited {
+    font-size: 1.5rem;
+  }
   .logo-div {
     gap: 1rem;
   }
