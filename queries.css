@@ -157,9 +157,6 @@
   .footer-para {
     font-size: 3.6rem;
   }
-  .footer-image {
-    height: 40vh;
-  }
   .about-us-para {
     font-size: 1.4rem;
     line-height: 1.5;
@@ -174,14 +171,17 @@
   }
 
   .doctor-timing {
-    margin-left: 8rem;
+    margin-left: 8.2rem;
   }
   .line-height {
-    height: 1.4rem;
+    height: 1.6rem;
   }
   .form-border input {
     font-size:1.8rem;
     font-weight:450
+  }
+  .footer-image {
+    height: 25vh;
   }
 }
 /* 480px */
