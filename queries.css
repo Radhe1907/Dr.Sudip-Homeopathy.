@@ -9,6 +9,7 @@
   .home-content {
     top: 11rem;
   }
+  
 }
 /* 1008px */
 @media (max-width: 63em) {
@@ -164,6 +165,9 @@
   }
   .line-height {
     height: 1.4rem;
+  }
+  .form-border input {
+    font-size:1.6rem;
   }
 }
 /* 480px */
