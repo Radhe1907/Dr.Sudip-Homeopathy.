@@ -142,6 +142,9 @@
   .navigation {
     padding: 0.5rem 3rem;
   }
+  .heading-home {
+    margin-bottom: 3.2rem;
+  }
   .home-img{
     height: 33vh;
   }
