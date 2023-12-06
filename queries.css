@@ -162,7 +162,13 @@
     letter-spacing: 2;
   }
   .doctor-name {
-    font-size: 3rem;
+    font-size: 3.3rem;
+  }
+   .chamber-details{
+    font-size: 2rem;
+  }
+  .chamber-timings p{
+    font-size: 1.8rem
   }
   .doctor-timing {
     margin-left: 6.8rem;
