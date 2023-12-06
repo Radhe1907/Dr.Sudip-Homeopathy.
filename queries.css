@@ -143,11 +143,24 @@
     padding: 0.5rem 3rem;
   }
   .heading-home {
-    margin-bottom: 3.2rem;
+    margin-bottom: 3.5rem;
   }
   .home-img{
     height: 33vh;
   }
+  .nav-overlay{
+	  height: 8rem;
+  }
+.doctor-logo{
+	  height:6rem;
+	  width:5rem;
+  }
+.grid-header{
+	  font-size: 1.9rem;
+  }
+.grid-para{
+	  font-size:1.6rem;
+  }  	
   .nav-link:link,
   .nav-link:visited {
     font-size: 1.5rem;
