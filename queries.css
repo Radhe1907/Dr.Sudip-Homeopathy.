@@ -139,6 +139,9 @@
   html {
     font-size: 38%;
   }
+  .navigation {
+    padding: 0.5rem 3rem;
+  }
   .chamber-timings p{
     font-size: 1.5rem;
   }
