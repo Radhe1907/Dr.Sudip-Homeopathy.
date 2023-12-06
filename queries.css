@@ -143,7 +143,7 @@
     padding: 0.5rem 3rem;
   }
   .heading-home {
-    margin-bottom: 3.5rem;
+    margin-bottom: 3.8rem;
   }
   .home-paragraph{
     font-size: 1.5rem;
@@ -154,19 +154,20 @@
   .nav-overlay{
     height: 8rem;
   }
-.doctor-logo{
+  .doctor-logo{
     height:6rem;
     width:5rem;
   }
-.grid-header{
+  .grid-header{
     font-size: 1.9rem;
+    margin-bottom: 1.2rem;
   }
-.grid-para{
+  .grid-para{
     font-size:1.6rem;
   }  	
   .nav-link:link,
   .nav-link:visited {
-    font-size: 1.5rem;
+    font-size: 1.6rem;
   }
   .logo-div {
     gap: 1rem;
@@ -186,7 +187,7 @@
     font-size: 3.6rem;
   }
   .about-us-para {
-    font-size: 1.55rem;
+    font-size: 1.7rem;
     line-height: 1.5;
     margin-bottom: 1rem;
     letter-spacing: 2;
